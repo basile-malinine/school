@@ -1,3 +1,5 @@
 .idea/
 access-srv.log
 error-srv.log
+composer.lock
+vendor/
